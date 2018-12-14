@@ -12,9 +12,6 @@ So far that hasnt actually come up due to the odds being in the players favor, t
 
 - doesnt display the total win until the end of free spins -- would like to add that to update and display each new win during free spins
 
--no real odd manipulation. just uses random module to pick each symbol. This could be implemented by having random pick from 0-99 and set if loops for each range. ie if symbol1 <= 30: print("@") if symbol1 > 30 and < 50: print ("=") ect. 
-
-
 
 Note that I am a python noob and any critisim is appreciated, but maybe dumb it down for me or provide examples!
 
